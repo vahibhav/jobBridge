@@ -8,7 +8,7 @@ function Header() {
   return (
     <nav className="navbar navbar-expand-lg bg-danger" data-bs-theme="dark">
       <div className="container-fluid">
-        <a className="navbar-brand" href="http://localhost:3000/">
+        <a className="navbar-brand" href="/">
           JobBridge.in
         </a>
         <button
